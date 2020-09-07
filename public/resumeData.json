@@ -1,117 +1,117 @@
 {
-  "main": {
-    "name": "Esaú Morais",
-    "occupation": "Python | JS | ReactJS Developer",
-    "description": "Front-End developer",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Esaú and I'm a Python and Front-End Developer. Currently I'm studing in High Schook and trying to improve everyday",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "esaumorais7@gmail.com",
-    "phone": "+55 86 98816 0268",
-    "address": {
-      "street": "",
-      "city": "Teresina",
-      "state": "Piauí",
-      "zip": ""
+  "main":{
+    "name":"Esaú Morais",
+    "occupation":"Python | JS | ReactJS Developer",
+    "description":"Front-End developer",
+    "image":"IG_Sonny.jpeg",
+    "bio":"My name is Esaú and I'm a Python and Front-End Developer. Currently I'm studing in High Schook and trying to improve everyday",
+    "contactmessage":"Get in touch with me to receive further details, get coached or anything else.",
+    "email":"esaumorais7@gmail.com",
+    "phone":"+55 86 98816 0268",
+    "address":{
+      "street":"",
+      "city":"Teresina",
+      "state":"Piauí",
+      "zip":""
     },
-    "website": "https://linktr.ee/e.mmorais",
-    "resumedownload": "https://drive.google.com/file/d/10d5YMbwZDBrmIbIUznHIQOSxldj1hbIB/view?usp=sharing",
-    "social": [
+    "website":"https://linktr.ee/e.mmorais",
+    "resumedownload":"https://drive.google.com/file/d/10d5YMbwZDBrmIbIUznHIQOSxldj1hbIB/view?usp=sharing",
+    "social":[
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/esau.morais.581",
-        "className": "fa fa-facebook"
+        "name":"facebook",
+        "url":"https://www.facebook.com/esau.morais.581",
+        "className":"fa fa-facebook"
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/emmorais/",
-        "className": "fa fa-linkedin"
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/emmorais/",
+        "className":"fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/esau_morais/",
-        "className": "fa fa-instagram"
+        "name":"instagram",
+        "url":"https://www.instagram.com/esau_morais/",
+        "className":"fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "http://github.com/esau-morais",
-        "className": "fa fa-github"
+        "name":"github",
+        "url":"http://github.com/esau-morais",
+        "className":"fa fa-github"
       }
     ]
   },
-  "resume": {
-    "skillmessage": "💻 Learning and Coding",
-    "education": [
+  "resume":{
+    "skillmessage":"💻 Learning and Coding",
+    "education":[
       {
-        "school": "CEV",
-        "degree": "Senior Year",
-        "graduated": "2021",
-        "description": "Graduated in High School"
+        "school":"CEV",
+        "degree":"Senior Year",
+        "graduated":"2021",
+        "description":"Graduated in High School"
       }
     ],
-    "work": [
+    "work":[
       {
-        "company": "Esaú Morais",
-        "title": "Pýthon and Front-End Developer",
-        "years": "January 2019 - Present",
-        "description": "Trying to get better in these most important and popular programming languages"
-      },
+        "company":"Esaú Morais",
+        "title":"Pýthon and Front-End Developer",
+        "years":"January 2019 - Present",
+        "description":"Trying to get better in these most important and popular programming languages"
+      }
     ],
-    "skills": [
+    "skills":[
       {
-        "name": "Git",
-        "level": "80%"
+        "name":"Git",
+        "level":"80%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "60%"
+        "name":"Figma && Adobe XD",
+        "level":"60%"
       },
       {
-        "name": "HTML5",
-        "level": "100%"
+        "name":"HTML5",
+        "level":"100%"
       },
       {
-        "name": "CSS",
-        "level": "90%"
+        "name":"CSS",
+        "level":"90%"
       },
       {
-        "name": "Js",
-        "level": "85%"
+        "name":"Js",
+        "level":"85%"
       },
       {
-        "name": "ReactJs",
-        "level": "80%"
-      },
+        "name":"ReactJs",
+        "level":"80%"
+      }
     ]
   },
-  "portfolio": {
-    "projects": [
+  "portfolio":{
+    "projects":[
       {
-        "title": "Apple.com UI Clone",
-        "category": "Apple.com UI Clone made with ReactJS, by Esaú Morais",
-        "image": "apple-ui.vercel.app_.png",
-        "url": "https://apple-ui.vercel.app/"
+        "title":"Apple.com UI Clone",
+        "category":"Apple.com UI Clone made with ReactJS, by Esaú Morais",
+        "image":"apple-ui.vercel.app_.png",
+        "url":"https://apple-ui.vercel.app/"
       },
       {
-        "title": "Spotify UI Clone",
-        "category": "I called Singfy: the Spotify UI clone. Made with ReactJS, by Esaú Morais",
-        "image": "singfy.vercel.app_.png",
-        "url": "https://singfy.vercel.app/"
+        "title":"Spotify UI Clone",
+        "category":"I called Singfy: the Spotify UI clone. Made with ReactJS, by Esaú Morais",
+        "image":"singfy.vercel.app_.png",
+        "url":"https://singfy.vercel.app/"
       },
       {
-        "title": "Python | Theory and Exercises",
-        "category": "This is the Python programming language brief for beginners.",
-        "image": "https://camo.githubusercontent.com/e8016d141af52987053072f048b99f76cef7c34b/68747470733a2f2f6172717569766f2e6465766d656469612e636f6d2e62722f6e6f7469636961732f61727469676f732f61727469676f5f7072696d6569726f732d706173736f732d636f6d2d707974686f6e5f33373030332e6a7067",
-        "url": "https://github.com/esau-morais/Python-Codes"
-      },
+        "title":"Python | Theory and Exercises",
+        "category":"This is the Python programming language brief for beginners.",
+        "image":"https://camo.githubusercontent.com/e8016d141af52987053072f048b99f76cef7c34b/68747470733a2f2f6172717569766f2e6465766d656469612e636f6d2e62722f6e6f7469636961732f61727469676f732f61727469676f5f7072696d6569726f732d706173736f732d636f6d2d707974686f6e5f33373030332e6a7067",
+        "url":"https://github.com/esau-morais/Python-Codes"
+      }
     ]
   },
-  "testimonials": {
-    "testimonials": [
+  "testimonials":{
+    "testimonials":[
       {
-        "text": "Esaú é um excelente programador, com uma vontade gigantesca em aprender e ajudar que é fora do comum. Super dedicado e desde de cedo já se esforça para dia-a-dia se tornar um grande programador!",
-        "user": "Jesus Felipe Candian"
-      },
+        "text":"Esaú é um excelente programador, com uma vontade gigantesca em aprender e ajudar que é fora do comum. Super dedicado e desde de cedo já se esforça para dia-a-dia se tornar um grande programador!",
+        "user":"Jesus Felipe Candian"
+      }
     ]
   }
 }
