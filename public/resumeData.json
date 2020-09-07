@@ -1,139 +1,117 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Esaú Morais",
+    "occupation": "Python | JS | ReactJS Developer",
+    "description": "Front-End developer",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Esaú and I'm a Python and Front-End Developer. Currently I'm studing in High Schook and trying to improve everyday",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "esaumorais7@gmail.com",
+    "phone": "+55 86 98816 0268",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "Teresina",
+      "state": "Piauí",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://linktr.ee/e.mmorais",
+    "resumedownload": "https://drive.google.com/file/d/10d5YMbwZDBrmIbIUznHIQOSxldj1hbIB/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/esau.morais.581",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/emmorais/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/esau_morais/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/esau-morais",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "💻 Learning and Coding",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "CEV",
+        "degree": "Senior Year",
+        "graduated": "2021",
+        "description": "Graduated in High School"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Esaú Morais",
+        "title": "Pýthon and Front-End Developer",
+        "years": "January 2019 - Present",
+        "description": "Trying to get better in these most important and popular programming languages"
       },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
-      }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
         "level": "100%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Js",
+        "level": "85%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
+        "name": "ReactJs",
         "level": "80%"
       },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Apple.com UI Clone",
+        "category": "Apple.com UI Clone made with ReactJS, by Esaú Morais",
+        "image": "apple-ui.vercel.app_.png",
+        "url": "https://apple-ui.vercel.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Spotify UI Clone",
+        "category": "I called Singfy: the Spotify UI clone. Made with ReactJS, by Esaú Morais",
+        "image": "singfy.vercel.app_.png",
+        "url": "https://singfy.vercel.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Python | Theory and Exercises",
+        "category": "This is the Python programming language brief for beginners.",
+        "image": "https://camo.githubusercontent.com/e8016d141af52987053072f048b99f76cef7c34b/68747470733a2f2f6172717569766f2e6465766d656469612e636f6d2e62722f6e6f7469636961732f61727469676f732f61727469676f5f7072696d6569726f732d706173736f732d636f6d2d707974686f6e5f33373030332e6a7067",
+        "url": "https://github.com/esau-morais/Python-Codes"
       },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
-      }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Esaú é um excelente programador, com uma vontade gigantesca em aprender e ajudar que é fora do comum. Super dedicado e desde de cedo já se esforça para dia-a-dia se tornar um grande programador!",
+        "user": "Jesus Felipe Candian"
       },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
     ]
   }
 }
