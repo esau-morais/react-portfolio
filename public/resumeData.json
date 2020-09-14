@@ -81,6 +81,10 @@
       {
         "name":"ReactJs",
         "level":"80%"
+      },
+      {
+        "name":"IBM Cloud",
+        "level":"60%"
       }
     ]
   },
@@ -103,6 +107,12 @@
         "category":"This is the Python programming language brief for beginners.",
         "image":"python-codes_.png",
         "url":"https://github.com/esau-morais/Python-Codes"
+      },
+      {
+        "title":"Amazing",
+        "category":"This is the Amazon UI redesig. Made with ReactJS, by Esaú Morais.",
+        "image":"amazing-ui_.png",
+        "url":"https://amazing-ui.vercel.app"
       }
     ]
   },
